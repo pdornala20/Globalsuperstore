@@ -1,0 +1,9 @@
+{
+	"name": "GSS1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3930f875-3c80-4e5a-94f9-3f0c05c8aef9",
+		"tenantId": "24c50b87-30d2-4b89-8390-b297b4b18876"
+	}
+}
