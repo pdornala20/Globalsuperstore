@@ -1,0 +1,12 @@
+{
+	"name": "superstore",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "pdornala20/Globalsuperstore",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
